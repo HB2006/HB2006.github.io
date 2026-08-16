@@ -6,15 +6,15 @@
   "id": "did:web:hb2006.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:hb2006.github.io#aacf18bd0e6825d094eef521cfb56a166442944195a9eaf48e49d157a84886e8",
+      "id": "did:web:hb2006.github.io#3d801dfc2dfaa54fab1fe0ebe166736fd52930ffa1a143dfd9fdc39287ef4270",
       "type": "JsonWebKey2020",
       "controller": "did:web:hb2006.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "dYj5W5dptOonkvqxB2Is2gFmysES33w_sR3VD2dfnAg=",
-        "y": "EfN6M-LzaofjN6D8NdpMVzwWIcUOWDz2LX1BwqFSa_M=",
-        "kid": "aacf18bd0e6825d094eef521cfb56a166442944195a9eaf48e49d157a84886e8",
+        "x": "1kfb3NyMqH59g7aETopRJJtEo5xLkcK1zORsJQ0AKEg=",
+        "y": "kHN-coGvN3jZhqmscENybj2qmJlObDDIKVh4ISZdofM=",
+        "kid": "3d801dfc2dfaa54fab1fe0ebe166736fd52930ffa1a143dfd9fdc39287ef4270",
         "alg": "ES256"
       }
     }
